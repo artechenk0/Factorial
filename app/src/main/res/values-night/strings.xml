@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo">Расчет факторила</string>
+    <string name="result_btn">Рассчитать</string>
+    <string name="hint">Введите число</string>
+</resources>
